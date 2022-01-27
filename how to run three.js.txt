@@ -1,0 +1,14 @@
+step 1 -  Open an empty repository
+step 2 - open terminal and run npm init @vitejs/app
+step 3 - then project name: _________-
+            Select a frame work: ..
+             vanilla
+             vue
+             react
+             preact
+# this will create an index.html,main.js,style.css,.gitignore,package .json
+
+step 4:  from here - inside the terminal run - npm install three
+step 5: next run npm run dev to start a local server copy the localhost and paste i
+           browser/
+step 6: remove the boiler plate code.
